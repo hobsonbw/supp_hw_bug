@@ -1,1 +1,6 @@
-
+.bundle
+vendor
+Gemfile
+Gemfile.lock
+run_options_hw.yml
+test_idf_file_hw.idf
